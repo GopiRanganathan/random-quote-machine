@@ -38,7 +38,7 @@ function App() {
     <div className="container-fluid p-5" id='wrapper' style={{backgroundColor: color}}>
     
         <div className="d-flex justify-content-center align-items-center vh-100">
-        <div className="card " id='quote-box' style={{maxWidth:"600px",minWidth:"500px", color:"white"}}>
+        <div className="card " id='quote-box' style={{maxWidth:"600px",minWidth:"300px", color:"white"}}>
         <div className="card-body p-5">
      
          { randomQuote ? (
