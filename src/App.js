@@ -39,7 +39,7 @@ function App() {
     
         <div className="d-flex justify-content-center align-items-center vh-100">
         <div className="card " id='quote-box' style={{maxWidth:"600px",minWidth:"300px", color:"white"}}>
-        <div className="card-body p-5">
+        <div className="card-body p-3">
      
          { randomQuote ? (
           <>
